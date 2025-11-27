@@ -1,0 +1,5 @@
+{
+  "name": "牛马时钟 (NiuMa Clock)",
+  "description": "一个专为打工人设计的倒计时应用。精确计算距离退休还有多久，以及距离今天下班还有多久，帮助你掌握摸鱼节奏。",
+  "requestFramePermissions": []
+}
